@@ -1,6 +1,6 @@
 # BrBrProxy
 
-> [!INFORMATION]  
+> [!NOTE]  
 > **BrBrProxy** is a lightweight proxy scrapper and checker i am coding in Python since i dont really want to work on something else
 
 ## Features
